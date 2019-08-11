@@ -21,4 +21,4 @@ while ( i < facts.length ) {
   i++;
 }
 return newFacts;
-}}
+}
